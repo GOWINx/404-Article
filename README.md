@@ -14,6 +14,8 @@ pnpm dev
 bun dev
 ```
 
+postgre connection string: postgresql://neondb_owner:npg_3ohVjswCl0fI@ep-jolly-poetry-a8i06ndb-pooler.eastus2.azure.neon.tech/neondb?sslmode=require
+
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
